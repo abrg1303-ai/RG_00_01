@@ -19,7 +19,7 @@
 
 ## rg_00_01
 
-An SAP Fiori application.
+An SAP Fiori application. Rahul Gupta is testing this.
 
 ### Starting the generated app
 
